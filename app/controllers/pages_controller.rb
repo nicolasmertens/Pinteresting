@@ -3,4 +3,5 @@ class PagesController < ApplicationController
   end
   def about
   end
+# change this
 end
